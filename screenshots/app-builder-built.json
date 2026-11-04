@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "PHỔ VÀNG",
+      "hasCanvas": false,
+      "bodyTextLen": 883,
+      "bodyTextHash": "89782b2104815a0368819cb0d95896d916b8de5dd7c4e26a2bd6ff8e066ea95d",
+      "bodyTextPrefix": "SẴN SÀNG PHỔ VÀNG TẢI 0:00 ĐO BẢN PROMPT VÍ Kho 143 mẫu · đỉnh ×",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "PHỔ VÀNG",
+      "hasCanvas": false,
+      "bodyTextLen": 883,
+      "bodyTextHash": "89782b2104815a0368819cb0d95896d916b8de5dd7c4e26a2bd6ff8e066ea95d",
+      "bodyTextPrefix": "SẴN SÀNG PHỔ VÀNG TẢI 0:00 ĐO BẢN PROMPT VÍ Kho 143 mẫu · đỉnh ×",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

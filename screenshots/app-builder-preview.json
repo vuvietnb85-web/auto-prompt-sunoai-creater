@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "PHỔ VÀNG",
+      "hasCanvas": false,
+      "bodyTextLen": 939,
+      "bodyTextHash": "3ced0e5882029897224b2614255200257a3442be6e152c2a46994df458731e93",
+      "bodyTextPrefix": "SẴN SÀNG PHỔ VÀNG TẢI 0:00 ĐO BẢN PROMPT VÍ Kho 143 mẫu · đỉnh ×",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "PHỔ VÀNG",
+      "hasCanvas": false,
+      "bodyTextLen": 939,
+      "bodyTextHash": "3ced0e5882029897224b2614255200257a3442be6e152c2a46994df458731e93",
+      "bodyTextPrefix": "SẴN SÀNG PHỔ VÀNG TẢI 0:00 ĐO BẢN PROMPT VÍ Kho 143 mẫu · đỉnh ×",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
